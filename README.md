@@ -45,6 +45,7 @@ restaurant-website/
 ✍️ Author
 Rajat Bhakte
 Engineering student | Aspiring Software Developer
+
 📧 Connect with me on LinkedIn. (https://www.linkedin.com/in/rajat-bhakte/)
 
 💡 License
