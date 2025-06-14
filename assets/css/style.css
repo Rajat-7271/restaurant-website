@@ -2346,6 +2346,20 @@ textarea.input-field {
 
 }
 
+@media (max-width: 575px) {
+  .topbar {
+    display: none;
+  }
+}
+
+@media (min-width: 576px) {
+  .topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+}
+
 /*-----------------------------------*\
   #Floating Card Effect
 \*-----------------------------------*/
